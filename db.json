@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "TEST" },
+    { "id": 1, "title": "You can now reload your molds" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
